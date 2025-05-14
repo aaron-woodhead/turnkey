@@ -36,6 +36,21 @@ body {
   margin-top: 1rem;
 }
 
+.features {
+  padding: 2rem;
+  background: #f7f7f7;
+  margin-top: 1rem;
+  text-align: left;
+}
+
+.stock{
+  padding: 2rem;
+  background: white;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+
 .card-container {
   display: flex;
   gap: 1rem;
