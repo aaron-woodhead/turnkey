@@ -30,6 +30,15 @@ body {
   text-align: center;
 }
 
+.hero-button {
+  background: black;
+  color: white;
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
 .stock, .cards, .image-text, footer {
   padding: 2rem;
   background: white;
