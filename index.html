@@ -5,12 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Turnkey</title>
   <link rel="stylesheet" href="style.css">
+  <!-- <script src="main.js"></script> -->
 </head>
 <body>
   <header>
     <div class="navbar">
-      <div class="site-name">Turnkey</div>
-      <nav>
+      <a class="site-name" href="/">Turnkey</a>
+      <nav class="nav-links">
         <a href="#">Stock</a>
         <a href="#">Contact</a>
         <a href="#">Page</a>
@@ -18,6 +19,10 @@
       </nav>
     </div>
   </header>
+
+<div class="content">
+
+  <div id="cat-images"></div>
 
   <section class="hero">
     <!-- Add background image and text -->
@@ -28,9 +33,11 @@
 
   <section class="stock">
     <h2 class="stock-title">Our Stock</h2>
-    <div class="stock-image-box">[Image Placeholder]</div>
+    <div class="stock-image-box">
+      [Image Placeholder]
+    </div>
     <p>lorem ipsum dolor sit amet</p>
-    <button>Button</button>
+    <button class="stock-button">Button</button>
   </section>
 
   <section class="features">
@@ -55,17 +62,19 @@
   </section>
 
   <section class="image-text">
-    <img src="#" alt="Fruit Image">
+    <div class="bottom-image">
+      <img src="#" alt="Fruit Image">
+    </div>
     <div class="text-columns">
-      <div>
+      <div class="text-column">
         <h3>Subheading</h3>
         <p>Lorem ipsum...</p>
       </div>
-      <div>
+      <div class="text-column">
         <h3>Subheading</h3>
         <p>Lorem ipsum...</p>
       </div>
-      <div>
+      <div class="text-column">
         <h3>Subheading</h3>
         <p>Lorem ipsum...</p>
       </div>
@@ -74,3 +83,5 @@
 
   <footer>
     <button>
+
+</div>
