@@ -45,6 +45,10 @@ body {
   margin-top: 1rem;
 }
 
+.stock-title {
+  text-align: left;
+}
+
 .features {
   padding: 2rem;
   background: #f7f7f7;
