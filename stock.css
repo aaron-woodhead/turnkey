@@ -1,0 +1,126 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  box-sizing: border-box;
+  padding-left: clamp(16px, 6vw, 80px);
+  padding-right: clamp(16px, 6vw, 80px);
+  padding-top: clamp(16px, 2vw, 32px);
+  padding-bottom: clamp(16px, 2vw, 32px);
+  background: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+}
+
+/* Responsive navbar for mobile */
+@media (max-width: 600px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+  .nav-links {
+    width: 100%;
+    flex-direction: column;
+    gap: 0.75rem;
+    margin-top: 0.5rem;
+  }
+}
+
+.site-name {
+  font-size: 1.7rem;
+  font-weight: bold;
+  color: #22223b;
+  letter-spacing: 1px;
+  text-decoration: none;
+}
+
+.nav-links {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.nav-links a {
+  color: #22223b;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+.nav-links a:hover {
+  color: #4a4e69;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f5f5f5;
+}
+header {
+  background: #ddd;
+  padding: 2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.section {
+  padding: 2rem;
+  text-align: center;
+}
+.section p {
+  max-width: 700px;
+  margin: 0 auto;
+}
+.stock-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+.stock-card {
+  display: flex;
+  max-width: 900px;
+  background: white;
+  padding: 1rem;
+  margin: 1rem 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.stock-image {
+  flex: 1;
+  background: #ccc;
+  height: 150px;
+  margin-right: 1rem;
+}
+.stock-content {
+  flex: 2;
+}
+.stock-title {
+  font-weight: bold;
+  margin: 0.5rem 0;
+}
+.button {
+  background: black;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: #eee;
+}
+.secondary-button {
+  background: #ddd;
+  color: black;
+  padding: 0.5rem 1rem;
+  border: none;
+  cursor: pointer;
+}
