@@ -148,7 +148,6 @@ body {
 }
 
 .stock,
-.cards,
 .image-text,
 footer {
   padding: clamp(12px, 3vw, 2rem);
@@ -162,6 +161,22 @@ footer {
   gap: 1rem;
   flex-wrap: wrap;
   justify-content: center;
+  background: #f2e9e4;
+  margin-top: 1rem;
+  border-radius: 25px;
+  padding: clamp(12px, 3vw, 2rem);
+}
+
+.features {
+  padding: 2rem;
+  background: #f2e9e4;
+  margin-top: 1rem;
+  text-align: left;
+  border-radius: 25px;
+}
+
+.stock {
+  text-align: center;
 }
 
 .card {
@@ -185,21 +200,6 @@ footer {
 
 .stock-title {
   text-align: left;
-}
-
-.features {
-  padding: 2rem;
-  background: #f2e9e4;
-  margin-top: 1rem;
-  text-align: left;
-  border-radius: 25px;
-}
-
-.stock {
-  padding: 2rem;
-  background: #f2e9e4;
-  margin-top: 1rem;
-  text-align: center;
 }
 
 .card-container {
