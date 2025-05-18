@@ -158,16 +158,17 @@ body {
   cursor: pointer;
 }
 
+.general-contact,
 .contact-section {
   border-radius: 25px;
   border: 1px solid #f2e9e4;
   background-color: #f2e9e4;
+  margin-bottom: 75px;
 }
 
-.general-contact {
+.contact-button,
+.contact-box {
   border-radius: 25px;
-  border: 1px solid #f2e9e4;
-  background-color: #f2e9e4;
 }
 
 .stock-image-box {
