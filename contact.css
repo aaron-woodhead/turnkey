@@ -133,11 +133,13 @@ body {
 }
 
 .contact-content {
+  margin-right: 20px;
   flex: 2;
 }
 
 .contact-content h2 {
-  margin-top: 0;
+  margin-top: 20px;
+  margin-right: 20px;
 }
 
 /* General Contact Section */
