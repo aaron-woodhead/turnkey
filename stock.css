@@ -103,6 +103,7 @@ body {
   margin-top: 3rem;
   margin-bottom: 3rem;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 120px;
 }
 
 .hero-button {
@@ -112,6 +113,10 @@ body {
   height: 40px;
   border-radius: 10px;
   cursor: pointer;
+}
+
+.stock-card {
+  margin-bottom: 80px;
 }
 
 .stock-item {
@@ -124,6 +129,7 @@ body {
   height: auto;
   max-width: 100vw;
   box-sizing: border-box;
+  margin-bottom: 80px;
 }
 
 @media (max-width: 600px) {
