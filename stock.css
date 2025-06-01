@@ -96,7 +96,7 @@ body {
 
 .hero {
   background: #9a8c98 url("your-image.jpg") no-repeat center/cover;
-  color: #f2e9e4;
+  color: white;
   border-radius: 20px;
   padding: 4rem 2rem;
   text-align: center;
