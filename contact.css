@@ -114,6 +114,9 @@ body {
   cursor: pointer;
 }
 
+.hero-button:hover {
+  background: #303051;
+}
 .contact-section {
   display: flex;
   gap: 2rem;

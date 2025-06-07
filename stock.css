@@ -115,6 +115,10 @@ body {
   cursor: pointer;
 }
 
+.hero-button:hover {
+  background: #303051;
+}
+
 .stock-card {
   margin-bottom: 80px;
 }

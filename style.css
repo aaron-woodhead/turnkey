@@ -114,6 +114,10 @@ body {
   cursor: pointer;
 }
 
+.hero-button:hover {
+  background: #303051;
+}
+
 .stock-image-box {
   display: flex;
   justify-content: center;
