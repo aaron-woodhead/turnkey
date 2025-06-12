@@ -151,6 +151,10 @@ body {
   cursor: pointer;
 }
 
+.stock-button:hover {
+  background: #303051;
+}
+
 .stock,
 .image-text,
 footer {

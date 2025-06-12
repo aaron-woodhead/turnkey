@@ -164,6 +164,10 @@ body {
   margin: 1.5rem auto 0 auto;
 }
 
+.stock-button:hover {
+  background: #303051;
+}
+
 .stock-item,
 .image-text,
 footer {

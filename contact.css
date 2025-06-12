@@ -171,6 +171,10 @@ body {
   cursor: pointer;
 }
 
+.contact-button:hover {
+  background: #303051;
+}
+
 .general-contact,
 .contact-section {
   border-radius: 25px;
