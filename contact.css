@@ -138,6 +138,7 @@ body {
 .contact-content {
   margin-right: 20px;
   flex: 2;
+  margin-left: 10px;
 }
 
 .contact-content h2 {
