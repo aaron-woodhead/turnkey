@@ -105,6 +105,16 @@ body {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
+.welcome-to {
+  margin-bottom: 15px;
+  font-size: 40px;
+}
+
+.turnkey-title {
+  margin-top: 0;
+  font-size: 35px;
+}
+
 .hero-button {
   background: #22223b;
   color: white;
