@@ -63,7 +63,7 @@ body {
 
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: Arial;
 }
 
 .content {
@@ -77,7 +77,7 @@ body {
 
 /* style.css */
 body {
-  font-family: sans-serif;
+  font-family: arial;
   margin: 0;
   padding: 0;
   background: #ffffff;
