@@ -268,3 +268,12 @@ footer {
   text-align: center;
   padding: 2rem;
 }
+
+.footer-phone {
+  display: inline-block;
+  margin-right: 50px;
+}
+
+.footer-email {
+  display: inline-block;
+}
