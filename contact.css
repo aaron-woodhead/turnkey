@@ -332,3 +332,18 @@ footer {
 .footer-email {
   display: inline-block;
 }
+
+.footer-button {
+  margin-right: 50px;
+  font-family: arial;
+  background: #22223b;
+  color: white;
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.footer-button:hover {
+  background: #303051;
+}
