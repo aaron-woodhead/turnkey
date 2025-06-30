@@ -166,13 +166,31 @@ body {
   background: #303051;
 }
 
+.stock {
+  background: white;
+}
+
+.stock-paragraph-unique {
+  color: #c079b5;
+  font-size: 25px;
+  font-style: italic;
+}
+
+.stock-paragraph {
+  font-size: 20px;
+}
+
 .stock,
 .image-text,
 footer {
   padding: clamp(12px, 3vw, 2rem);
-  background: #f2e9e4;
   margin-top: 6rem;
   border-radius: 25px;
+}
+
+.image-text,
+footer {
+  background: #f2e9e4;
 }
 
 .cards {
