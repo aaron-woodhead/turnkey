@@ -168,6 +168,9 @@ body {
 
 .stock {
   background: white;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 5px;
 }
 
 .stock-paragraph-unique {
@@ -185,6 +188,10 @@ body {
 footer {
   padding: clamp(12px, 3vw, 2rem);
   margin-top: 6rem;
+}
+
+.image-text,
+footer {
   border-radius: 25px;
 }
 
