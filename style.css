@@ -190,9 +190,12 @@ footer {
   margin-top: 6rem;
 }
 
+.features,
 .image-text,
 footer {
   border-radius: 25px;
+  border-width: 5px;
+  border-style: solid;
 }
 
 .image-text,
