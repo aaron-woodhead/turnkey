@@ -94,6 +94,11 @@ body {
   padding-bottom: 1rem;
 }
 
+.welcome-to {
+  margin-bottom: 15px;
+  font-size: 20px;
+}
+
 .hero {
   background: #152436 url("your-image.jpg") no-repeat center/cover;
   color: white;
@@ -103,17 +108,6 @@ body {
   margin-top: 3rem;
   margin-bottom: 3rem;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.welcome-to {
-  margin-bottom: 15px;
-  font-size: 20px;
-}
-
-.turnkey-title {
-  margin-top: 0;
-  font-size: 50px;
-  margin-bottom: 0px;
 }
 
 .hero-button {
@@ -128,6 +122,11 @@ body {
 
 .hero-button:hover {
   background: #1c2e4f;
+}
+.turnkey-title {
+  margin-top: 0;
+  font-size: 50px;
+  margin-bottom: 0px;
 }
 
 .subheading-1 {
