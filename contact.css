@@ -181,9 +181,10 @@ body {
 .general-contact,
 .contact-section {
   border-radius: 25px;
-  border: 1px solid #f2e9e4;
-  background-color: #f2e9e4;
+  border: 1px solid #1c2e4f;
+  background-color: #1c2e4f;
   margin-bottom: 40px;
+  color: white;
 }
 
 .contact-button,
@@ -325,6 +326,8 @@ footer {
 footer {
   text-align: center;
   padding: 2rem;
+  background-color: #1c2e4f;
+  color: white;
 }
 .footer-phone {
   display: inline-block;
