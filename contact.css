@@ -339,14 +339,13 @@ footer {
 }
 
 .footer-button {
-  margin-right: 50px;
-  font-family: arial;
-  background: #22223b;
+  background: #3e5e99;
   color: white;
   width: 100px;
   height: 40px;
-  border-radius: 10px;
+  border-radius: 11px;
   cursor: pointer;
+  border-width: 0px;
 }
 
 .footer-button:hover {
