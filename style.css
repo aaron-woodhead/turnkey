@@ -173,11 +173,9 @@ body {
 }
 
 .stock {
-  background: white;
+  background: #1c2e4f;
   border-width: 5px;
-  border-style: solid;
-  border-radius: 5px;
-  border-color: #152436;
+  border-radius: 25px;
 }
 
 .stock-paragraph-unique {
@@ -202,13 +200,7 @@ footer {
 footer {
   border-radius: 25px;
   border-width: 5px;
-  border-style: solid;
-  border-color: #3e5e99;
-}
-
-.image-text,
-footer {
-  background: white;
+  background: #1c2e4f;
 }
 
 .cards {
@@ -224,7 +216,7 @@ footer {
 
 .features {
   padding: 2rem;
-  background: white;
+  background: #1c2e4f;
   margin-top: 1rem;
   text-align: left;
   border-radius: 25px;
