@@ -131,7 +131,11 @@ body {
 }
 
 .subheading-1 {
-  color: #1c2e4f;
+  color: #ffffff;
+}
+
+.paragraph-1 {
+  color: rgb(188, 188, 188);
 }
 
 .stock-image-box {
@@ -287,7 +291,7 @@ footer {
   display: flex;
   gap: 1rem;
   margin-top: 1rem;
-  background: white;
+  background: #1c2e4f;
   padding: 3rem;
   justify-content: center;
   flex-wrap: wrap;
