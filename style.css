@@ -212,7 +212,7 @@ footer {
   gap: 1rem;
   flex-wrap: wrap;
   justify-content: center;
-  background: white;
+  background: #63a9ec;
   margin-top: 1rem;
   border-radius: 25px;
   padding: clamp(12px, 3vw, 2rem);
@@ -232,7 +232,7 @@ footer {
 }
 
 .card {
-  background: white;
+  background: #5b91c4;
   padding: 1rem;
   flex: 1 1 220px;
   max-width: 220px;
