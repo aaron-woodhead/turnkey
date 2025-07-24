@@ -231,6 +231,10 @@ footer {
   margin-bottom: 6rem;
 }
 
+.section-heading {
+  color: white;
+}
+
 .card {
   background: #5b91c4;
   padding: 1rem;
