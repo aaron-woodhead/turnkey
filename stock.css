@@ -229,6 +229,8 @@ footer {
 .stock-title {
   text-align: center;
   margin-top: 5px;
+  font-weight: bold;
+  font-size: 30px;
 }
 
 .card-container {
