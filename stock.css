@@ -297,6 +297,7 @@ footer {
   border-radius: 11px;
   cursor: pointer;
   border-width: 0px;
+  margin-right: 50px;
 }
 
 .footer-button:hover {
