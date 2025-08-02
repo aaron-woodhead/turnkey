@@ -229,7 +229,7 @@ body {
 .image-text,
 footer {
   padding: clamp(12px, 3vw, 2rem);
-  background: #f2e9e4;
+  background: #1c2e4f;
   margin-top: 1rem;
   border-radius: 25px;
 }
@@ -329,6 +329,7 @@ footer {
   background-color: #1c2e4f;
   color: white;
 }
+
 .footer-phone {
   display: inline-block;
   margin-right: 50px;
