@@ -167,6 +167,7 @@ body {
   border-width: 0px;
   display: block;
   margin: 1.5rem auto 0 auto;
+  margin-top: 50px;
 }
 
 .stock-button:hover {
