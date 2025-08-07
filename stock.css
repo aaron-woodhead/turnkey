@@ -207,6 +207,10 @@ footer {
   text-align: center;
 }
 
+.stock-item-paragraph {
+  color: rgb(188, 188, 188);
+}
+
 .card {
   background: #f1f1f1;
   padding: 1rem;
