@@ -119,12 +119,14 @@ body {
   background: #1c2e4f;
 }
 
+.sell-contact-section,
 .contact-section {
   display: flex;
   gap: 2rem;
   margin-bottom: 2rem;
 }
 
+.sell-contact-box,
 .contact-box {
   flex: 1;
   background: #ccc;
@@ -137,12 +139,14 @@ body {
   margin-bottom: 20px;
 }
 
+.sell-contact-content,
 .contact-content {
   margin-right: 20px;
   flex: 2;
   margin-left: 10px;
 }
 
+.sell-contact-content h2,
 .contact-content h2 {
   margin-top: 20px;
   margin-right: 20px;
@@ -178,6 +182,7 @@ body {
   background: #303051;
 }
 
+.sell-contact-section,
 .general-contact,
 .contact-section {
   border-radius: 25px;
@@ -187,9 +192,16 @@ body {
   color: white;
 }
 
+.sell-contact-box,
 .contact-button,
 .contact-box {
   border-radius: 25px;
+}
+
+.contact-paragraph,
+.sell-contact-paragraph,
+.general-contact-paragraph {
+  color: rgb(188, 188, 188);
 }
 
 .stock-image-box {
