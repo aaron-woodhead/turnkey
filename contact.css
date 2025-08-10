@@ -345,10 +345,12 @@ footer {
 .footer-phone {
   display: inline-block;
   margin-right: 50px;
+  color: white;
 }
 
 .footer-email {
   display: inline-block;
+  color: white;
 }
 
 .footer-button {
