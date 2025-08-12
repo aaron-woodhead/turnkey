@@ -195,9 +195,13 @@ body {
 
 .stock,
 .image-text,
-footer {
+.footer {
   padding: clamp(12px, 3vw, 2rem);
   margin-top: 6rem;
+}
+
+.footer {
+  margin-top: 40px;
 }
 
 .features,
@@ -223,6 +227,7 @@ footer {
   padding: 2rem;
   background: #1c2e4f;
   margin-top: 1rem;
+  margin-bottom: 40px;
   text-align: left;
   border-radius: 25px;
 }
