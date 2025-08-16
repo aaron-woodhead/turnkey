@@ -251,6 +251,8 @@ footer {
   align-items: center;
   margin: 1rem 0;
   border-radius: 15px;
+  border-width: 3px;
+  border-style: solid;
 }
 
 .card img {
