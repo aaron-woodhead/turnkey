@@ -179,7 +179,8 @@ body {
 }
 
 .contact-button:hover {
-  background: #303051;
+  background: #666688;
+  padding: 1rem;
 }
 
 .sell-contact-section,
