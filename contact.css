@@ -354,6 +354,16 @@ footer {
   color: white;
 }
 
+.footer-phone:hover {
+  color: grey;
+  cursor: pointer;
+}
+
+.footer-email:hover {
+  color: grey;
+  cursor: pointer;
+}
+
 .footer-button {
   background: #3e5e99;
   color: white;

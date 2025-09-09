@@ -325,6 +325,16 @@ footer {
   color: white;
 }
 
+.footer-phone:hover {
+  color: grey;
+  cursor: pointer;
+}
+
+.footer-email:hover {
+  color: grey;
+  cursor: pointer;
+}
+
 .footer-email {
   display: inline-block;
   color: white;
