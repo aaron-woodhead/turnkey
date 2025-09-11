@@ -124,6 +124,7 @@ body {
   display: flex;
   gap: 2rem;
   margin-bottom: 2rem;
+  height: 300px;
 }
 
 .sell-contact-box,
@@ -158,6 +159,7 @@ body {
   gap: 2rem;
   flex-wrap: wrap;
   align-items: flex-start;
+  height: 150px;
 }
 
 .contact-info {
