@@ -222,6 +222,8 @@ footer {
 
 .stock-item-paragraph {
   color: rgb(188, 188, 188);
+  align-self: center;
+  justify-content: center;
 }
 
 .card {
