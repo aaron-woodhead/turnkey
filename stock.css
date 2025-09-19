@@ -121,6 +121,8 @@ body {
 
 .stock-card {
   margin-bottom: 80px;
+  align-content: center;
+  justify-content: center;
 }
 
 .stock-item {
