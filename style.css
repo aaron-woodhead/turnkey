@@ -324,22 +324,26 @@ footer {
   display: inline-block;
   margin-right: 50px;
   color: white;
+  font-weight: bold;
 }
 
 .footer-phone:hover {
   color: grey;
   cursor: pointer;
+  font-weight: bolder;
 }
 
 .footer-email:hover {
   color: grey;
   cursor: pointer;
+  font-weight: bolder;
 }
 
 .footer-email {
   display: inline-block;
   color: white;
   margin-left: 50px;
+  font-weight: bold;
 }
 
 .footer-button {

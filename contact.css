@@ -349,21 +349,25 @@ footer {
   display: inline-block;
   margin-right: 50px;
   color: white;
+  font-weight: bold;
 }
 
 .footer-email {
   display: inline-block;
   color: white;
+  font-weight: bold;
 }
 
 .footer-phone:hover {
   color: grey;
   cursor: pointer;
+  font-weight: bolder;
 }
 
 .footer-email:hover {
   color: grey;
   cursor: pointer;
+  font-weight: bolder;
 }
 
 .footer-button {
