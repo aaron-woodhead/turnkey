@@ -354,6 +354,7 @@ footer {
   border-radius: 11px;
   cursor: pointer;
   border-width: 0px;
+  font-weight: bold;
 }
 
 .footer-button:hover {

@@ -334,6 +334,7 @@ footer {
   cursor: pointer;
   border-width: 0px;
   margin-right: 50px;
+  font-weight: bold;
 }
 
 .footer-button:hover {
