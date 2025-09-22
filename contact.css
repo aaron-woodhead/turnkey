@@ -52,6 +52,7 @@
 
 .nav-links a:hover {
   color: #4a4e69;
+  font-weight: bold;
 }
 
 html,
