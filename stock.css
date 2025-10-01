@@ -305,20 +305,26 @@ footer {
   flex-wrap: wrap;
 }
 
-footer {
-  text-align: center;
-  padding: 2rem;
-  color: white;
+.footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
 }
+
 .footer-phone {
   display: inline-block;
   margin-right: 50px;
   font-weight: bold;
+  align-items: right;
+  text-align: right;
+  justify-self: right;
 }
 
 .footer-email {
   display: inline-block;
   font-weight: bold;
+  text-align: left;
+  justify-self: left;
 }
 
 .footer-phone:hover {
