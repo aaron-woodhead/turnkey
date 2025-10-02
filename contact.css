@@ -164,7 +164,8 @@ body {
 
 /* General Contact Section */
 .general-contact {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
   gap: 2rem;
   flex-wrap: wrap;
   align-items: flex-start;
