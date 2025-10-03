@@ -130,7 +130,8 @@ body {
 
 .sell-contact-section,
 .contact-section {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
   gap: 2rem;
   margin-bottom: 2rem;
   height: 300px;
