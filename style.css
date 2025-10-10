@@ -344,12 +344,14 @@ footer {
   color: grey;
   cursor: pointer;
   font-weight: bolder;
+  font-size: 15px;
 }
 
 .footer-email:hover {
   color: grey;
   cursor: pointer;
   font-weight: bolder;
+  font-size: 15px;
 }
 
 .footer-email {
