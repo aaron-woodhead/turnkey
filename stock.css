@@ -186,13 +186,27 @@ body {
   background: #3e5e99;
   color: white;
   width: 100px;
-  height: 40px;
+  height: 30px;
   border-radius: 11px;
   cursor: pointer;
   border-width: 0px;
   display: block;
   margin: 1.5rem auto 0 auto;
-  margin-top: 50px;
+  margin-top: 70px;
+  margin-bottom: 0px;
+  text-align: center;
+  justify-content: center;
+  text-decoration: none;
+  padding-top: 15px;
+  font-weight: normal;
+  font-size: 14px;
+}
+
+.stock-button-text {
+  text-align: center;
+  justify-content: center;
+  align-self: center;
+  vertical-align: center;
 }
 
 .stock-button:hover {
