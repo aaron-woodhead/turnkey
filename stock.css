@@ -125,6 +125,7 @@ body {
 
 .hero-button:hover {
   background: #1c2e4f;
+  color: #3e5e99;
 }
 
 .stock-card {
@@ -374,4 +375,5 @@ footer {
 
 .footer-button:hover {
   background: #303051;
+  color: #3e5e99;
 }

@@ -126,6 +126,7 @@ body {
 
 .hero-button:hover {
   background: #1c2e4f;
+  color: #3e5e99;
 }
 
 .sell-contact-section,
@@ -198,6 +199,7 @@ body {
 .contact-button:hover {
   background: #666688;
   padding: 1rem;
+  color: #3e5e99;
 }
 
 .sell-contact-section,
@@ -405,4 +407,5 @@ footer {
 
 .footer-button:hover {
   background: #303051;
+  color: #3e5e99;
 }

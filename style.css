@@ -125,6 +125,7 @@ body {
 
 .hero-button:hover {
   background: #1c2e4f;
+  color: #3e5e99;
 }
 
 .turnkey-title {
@@ -183,6 +184,7 @@ body {
 
 .stock-button:hover {
   background: #303051;
+  color: #3e5e99;
 }
 
 .stock {
@@ -376,4 +378,5 @@ footer {
 
 .footer-button:hover {
   background: #303051;
+  color: #3e5e99;
 }
