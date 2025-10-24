@@ -337,17 +337,11 @@ footer {
 .footer-phone {
   display: inline-block;
   margin-right: 50px;
+  color: white;
   font-weight: bold;
   align-items: right;
   text-align: right;
   justify-self: right;
-}
-
-.footer-email {
-  display: inline-block;
-  font-weight: bold;
-  text-align: left;
-  justify-self: left;
 }
 
 .footer-phone:hover {
@@ -364,6 +358,15 @@ footer {
   font-size: 15px;
 }
 
+.footer-email {
+  display: inline-block;
+  color: white;
+  margin-left: 50px;
+  font-weight: bold;
+  text-align: left;
+  justify-self: left;
+}
+
 .footer-button {
   background: #3e5e99;
   color: white;
@@ -372,7 +375,6 @@ footer {
   border-radius: 11px;
   cursor: pointer;
   border-width: 0px;
-  margin-right: 50px;
   font-weight: bold;
 }
 
