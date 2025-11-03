@@ -44,7 +44,7 @@
   color: black;
   font-weight: bolder;
   font-size: 1.8rem;
-  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.6);
+  filter: drop-shadow(0 8px 16px rgba(0, 0, 0, 0.6));
 }
 
 .nav-links {
@@ -62,7 +62,7 @@
 .nav-links a:hover {
   color: #4a4e69;
   font-weight: bold;
-  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.6);
+  filter: drop-shadow(0 8px 16px rgba(0, 0, 0, 0.6));
 }
 
 html,
