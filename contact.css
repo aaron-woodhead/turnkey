@@ -387,12 +387,14 @@ footer {
   color: grey;
   cursor: pointer;
   font-weight: bolder;
+  filter: drop-shadow(0 8px 16px rgba(0, 0, 0, 0.6));
 }
 
 .footer-email:hover {
   color: grey;
   cursor: pointer;
   font-weight: bolder;
+  filter: drop-shadow(0 8px 16px rgba(0, 0, 0, 0.6));
 }
 
 .footer-button {

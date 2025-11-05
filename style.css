@@ -356,6 +356,7 @@ footer {
   color: grey;
   cursor: pointer;
   font-weight: bolder;
+  filter: drop-shadow(0 8px 16px rgba(0, 0, 0, 0.6));
 }
 
 .footer-email {
@@ -365,6 +366,7 @@ footer {
   font-weight: bold;
   text-align: left;
   justify-self: left;
+  filter: drop-shadow(0 8px 16px rgba(0, 0, 0, 0.6));
 }
 
 .footer-button {
@@ -381,5 +383,5 @@ footer {
 .footer-button:hover {
   background: #303051;
   color: #3e5e99;
-  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.6);
+  box-shadow: 0 12px 20px 0 rgba(0, 0, 0, 0.6);
 }
