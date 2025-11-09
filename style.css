@@ -204,6 +204,13 @@ body {
   font-weight: bold;
 }
 
+.stock-paragraph-unique:hover {
+  color: #1ed2cb;
+  cursor: pointer;
+  font-weight: bolder;
+  filter: drop-shadow(0 8px 16px rgba(0, 0, 0, 0.6));
+}
+
 .stock-paragraph {
   font-size: 20px;
   color: white;
