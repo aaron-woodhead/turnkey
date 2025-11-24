@@ -1,0 +1,49 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.contact-section {
+  border-radius: 25px;
+  border: 1px solid #1c2e4f;
+  background-color: #1c2e4f;
+  margin-bottom: 40px;
+  color: white;
+}
+
+.contact-section {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  height: 300px;
+}
+
+.content {
+  margin: 0 auto;
+  padding-left: clamp(16px, 6vw, 80px);
+  padding-right: clamp(16px, 6vw, 80px);
+  padding-top: clamp(16px, 3vw, 32px);
+  padding-bottom: clamp(16px, 3vw, 32px);
+  max-width: 1200px;
+}
+
+.contact-box {
+  border-radius: 25px;
+  flex: 1;
+  background: #ccc;
+  padding: 1rem;
+  min-height: 100px;
+  text-align: center;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
