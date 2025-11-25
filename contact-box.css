@@ -37,13 +37,8 @@ body {
 
 .contact-box {
   border-radius: 25px;
-  flex: 1;
-  background: #ccc;
-  padding: 1rem;
-  min-height: 100px;
-  text-align: center;
-  margin-top: 20px;
-  margin-right: 20px;
-  margin-left: 20px;
-  margin-bottom: 20px;
+  background-color: aqua;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr 4fr 1fr;
 }
