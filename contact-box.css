@@ -40,5 +40,26 @@ body {
   background-color: aqua;
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: 1fr 1fr 4fr 1fr;
+  grid-template-rows: 1fr 4fr 1fr;
+}
+
+.email-subject {
+  margin: 10px;
+  padding-left: clamp(16px, 6vw, 80px);
+  padding-right: clamp(16px, 6vw, 80px);
+}
+
+.email-message {
+  height: 150px;
+  margin: 10px;
+  padding-left: clamp(16px, 6vw, 80px);
+  padding-right: clamp(16px, 6vw, 80px);
+}
+
+.submit-button-box {
+  display: grid;
+}
+
+.submit-button {
+  justify-self: center;
 }
